@@ -16,4 +16,4 @@ jobs:
     steps:
     - run: npm ci
     - run: npm test
-    - echo: 'teste bem sucedido'
+    - run: echo 'teste bem sucedido'
